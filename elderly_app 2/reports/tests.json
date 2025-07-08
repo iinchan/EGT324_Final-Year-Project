@@ -1,0 +1,7 @@
+{"protocolVersion":"0.1.1","runnerVersion":"1.25.2","pid":7268,"type":"start","time":0}
+{"suite":{"id":0,"platform":"vm","path":"/Users/yjmockkk/Downloads/elderly_app/test/widget_test.dart"},"type":"suite","time":0}
+{"test":{"id":1,"name":"loading /Users/yjmockkk/Downloads/elderly_app/test/widget_test.dart","suiteID":0,"groupIDs":[],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":1}
+{"count":1,"time":10,"type":"allSuites"}
+{"testID":1,"error":"Failed to load \"/Users/yjmockkk/Downloads/elderly_app/test/widget_test.dart\": Compilation failed for testPath=/Users/yjmockkk/Downloads/elderly_app/test/widget_test.dart","stackTrace":"","isFailure":false,"type":"error","time":9103}
+{"testID":1,"result":"error","skipped":false,"hidden":false,"type":"testDone","time":9107}
+{"success":false,"type":"done","time":9112}

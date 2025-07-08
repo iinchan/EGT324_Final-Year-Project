@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "923556785147",
+    "firebase_url": "https://myj-firebase-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "myj-firebase",
+    "storage_bucket": "myj-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923556785147:android:3dacd6df1ed1737deeb95e",
+        "android_client_info": {
+          "package_name": "com.tpyccc.elderly_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923556785147-fhredtc8jc8sb7976tmbmrm8mo04tj5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMq74ZISmmHiGXQM-6IZtgF4Ip9YXlklc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923556785147-fhredtc8jc8sb7976tmbmrm8mo04tj5s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "923556785147-rn7mg06mh736njjlop6sihujk8hn46du.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tpyccc.elderly-app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
