@@ -25,3 +25,9 @@ Real-Time Monitoring Activities (Proposed Features)
 
 ### 3) Activity Planner: 
 - Managing daily activities and tracking activity status.
+
+## CareBuddy App Prototype
+![App Prototype](https://github.com/iinchan/EGT324_Final-Year-Project/blob/main/EGT324_FYP_CareBuddy%20Prototype.png)
+
+## Pitching Slide
+![Pitching Slide](https://github.com/iinchan/EGT324_Final-Year-Project/blob/main/FYP-Final%20Presentation_224416M_Mock%20Ying%20Jing.pptx)
