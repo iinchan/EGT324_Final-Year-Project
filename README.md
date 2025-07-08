@@ -15,11 +15,13 @@ To develop a user-friendly cross-platform mobile application, which:
 
 ## Project Deliverables:
 Real-Time Monitoring Activities (Proposed Features)
-- Journal Entry:
-1)   Live journal access and capture.
-- Blood Pressure Tracker: 
-2)  Blood pressure input form for elderly.
-3)  Real-time data access for caregivers. 
-4)  Elderly blood pressure data analytics.
-- Activity Planner: 
-5)  Managing daily activities and tracking activity status.
+1) Journal Entry:
+- Live journal access and capture.
+  
+2) Blood Pressure Tracker: 
+- Blood pressure input form for elderly.
+- Real-time data access for caregivers.
+- Elderly blood pressure data analytics.
+
+3) Activity Planner: 
+- Managing daily activities and tracking activity status.
